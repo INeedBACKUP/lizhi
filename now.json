@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "php-7",
+    "builds": [
+        { "src": "api.php", "use": "@now/php" }
+    ]
+}
